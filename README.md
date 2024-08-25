@@ -9,7 +9,7 @@ In this application there are 2 modules user module and admin module.
 * increase or decrease the item quantity. 
 * remove the items from the cart. 
 
-<u><b>ADMIN MODULE:</>b</u> 
+<u><b>ADMIN MODULE:</b></u> 
 * Admin can see all the details of users. 
 * delete the user's account.
 * view the order placed by the users. 
