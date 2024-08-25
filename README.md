@@ -11,6 +11,7 @@ USER MODULE:
 
 ADMIN MODULE: 
 * Admin can see all the details of users. 
-* delete the user's account. • view the order placed by the users. 
-* add new items to the website. 
+* delete the user's account.
+* view the order placed by the users. 
+* add new items to the website.
 * remove items from the website.
