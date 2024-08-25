@@ -1,6 +1,6 @@
 # E-Commerce-Webapplication
 
-Built a E commerce web application using servlet, JDBC, SQL, JSP. 
+Built an E commerce web application using servlet, JDBC, SQL, JSP. 
 In this application there are 2 modules user module and admin module. 
 
 <ins><b>USER MODULE:</b></ins> 
